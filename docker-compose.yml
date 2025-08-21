@@ -1,0 +1,6 @@
+﻿version: '3.8'
+services:
+  signalr-api:
+    build: .
+    ports:
+      - "7079:7079"

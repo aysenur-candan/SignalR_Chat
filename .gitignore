@@ -1,0 +1,18 @@
+﻿# Visual Studio
+.vs/
+
+# Build klasörleri
+bin/
+obj/
+publish/
+
+# Kullanıcı ayar dosyaları
+*.user
+*.suo
+*.userosscache
+
+# Rider IDE
+.idea/
+
+# Log dosyaları
+*.log
